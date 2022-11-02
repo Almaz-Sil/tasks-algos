@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-    //vector<string> words = { "fire", "fog", "wood"};
+    ///vector<string> words = { "fire", "fog", "wood"};
     string words = "fire fog wood";
     string min = "wood";
 
